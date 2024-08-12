@@ -19,14 +19,14 @@ Documento para me auxiliar e conhecer os principais comandos do GIT.
 ```
 
 ## 3. Adicionar mudanças ao índice (staging area)
-Para adicionar mudanças ao índice, use:
+***Para adicionar mudanças ao índice, use:***
 
 ```bash
     git add <nome do arquivo>
 ```
 ou
 
-Para adicionar todas as mudanças:
+***Para adicionar todas as mudanças:***
 
 ```bash
     git add .
