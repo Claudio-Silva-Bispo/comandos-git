@@ -34,7 +34,7 @@ Documento para me auxiliar e conhecer os principais comandos do GIT.
 
 ***Para adicionar mudanças ao índice, use:***
 
-   $ git add <nome do arquivo>
+    $    git add "nome do arquivo"
 
 ou
 
