@@ -3,6 +3,20 @@ Documento para me auxiliar e conhecer os principais comandos do GIT.
 
 # Documentação de Comandos Git
 
+## configrações básicas
+
+***Gravar o nome nas transações de commits***
+
+    $ git config --global user.name "nome aqui"
+
+***Gravar o e-mail nas transações de commits***
+
+    $ git config --global user.email "email aqui"
+
+***Gravar o e-mail nas transações de commits***
+
+    $ git config --global color.ui auto
+
 ## 1. Iniciar um repositório Git na máquina
 
 ***Para inicializar um repositório Git no diretório atual, use o comando:***
